@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anurag Vasu
 
-### 🎓 B.Tech Computer Science Student | 🌱 Aspiring Software Developer
+### 🎓 B.Tech Computer Science Student | 🌱 Aspiring Software Developer 
 
 Welcome to my GitHub profile! I'm a **B.Tech Computer Science student** who is currently exploring the world of software development and improving my programming skills step by step.
 
@@ -14,7 +14,7 @@ I'm still at the learning stage, and my goal is to continuously learn, build pro
 - 🌱 Currently learning **Java, Python & CSS**
 - 💻 Interested in **Software Development**
 - 🔍 Exploring programming and development concepts
-- 🚀 Learning by building projects and practicing
+- 🚀 Learning by building projects and practicing them as well
 - 📚 Always looking forward to learning something new
 
 ---
