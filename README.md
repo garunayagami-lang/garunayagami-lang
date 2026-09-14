@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Anurag Vasu
+# 👋 Hi, I'm Anurag Vasu(learning)
 
 ### 🎓 B.Tech Computer Science Student | 🌱 Aspiring Software Developer 
 
